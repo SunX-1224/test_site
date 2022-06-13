@@ -1,0 +1,19 @@
+body.one{
+    background-image: url("home.jpg");
+    background-size: 100% 100%;
+    }
+    table{
+     border-radius: 8px;
+    }
+    table.one:hover{
+    background-color: whitesmoke;
+    }
+    td a{
+    text-decoration: none;
+    font-size: 20;
+    }
+    img{
+        float: right;
+    }
+    
+   
